@@ -9,7 +9,7 @@ export const AppHeader = (): ReactElement => {
     <Navbar bg="light" expand="lg">
       <Container>
         <Navbar.Brand href="#home" tabIndex={-1}>
-          <span style={{fontFamily: 'DooM'}}>GZDeck</span>
+          <span style={{fontFamily: 'DooM'}}>UZDeck</span>
         </Navbar.Brand>
         <Nav>
           <Button

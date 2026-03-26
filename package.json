@@ -1,9 +1,9 @@
 {
-  "name": "gzdeck",
-  "productName": "GZDeck",
+  "name": "uzdeck",
+  "productName": "UZDeck",
   "author": "David Flegal",
-  "version": "1.1.0",
-  "description": "A GZDoom launcher for steam deck",
+  "version": "1.0.0",
+  "description": "A UZDoom launcher for steam deck",
   "main": "./.webpack/main/index.js",
   "scripts": {
     "start": "NODE_ENV=development; electron-forge start",
@@ -79,8 +79,8 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "name": "GZDeck",
-        "executableName": "gzdeck",
+        "name": "UZDeck",
+        "executableName": "uzdeck",
         "icon": "assets/icon",
         "extraResource": [
           "assets"
