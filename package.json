@@ -2,7 +2,7 @@
   "name": "uzdeck",
   "productName": "UZDeck",
   "author": "David Flegal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A UZDoom launcher for steam deck",
   "main": "./.webpack/main/index.js",
   "scripts": {
